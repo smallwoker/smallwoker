@@ -52,7 +52,13 @@ Here are some ideas to get you started:
 			<td colspan="2">18617890406</td>
 			<td>现居住地址</td>
 			<td colspan="3">河北石家庄</td>
-		</tr>			
+		</tr>
+	<tr height="50" style="text-align: center;">
+			<td>我的博客</td>
+			<td colspan="2"><a href="https://home.cnblogs.com/u/PSLQYZ/">点击链接</a></td>
+			<td>我的GitHub</td>
+			<td colspan="3"><a href="https://github.com/smallwoker/">点击链接</a></td>
+		</tr>		
 		<tr height="50" style="text-align: center;">
 			<td>毕业院校</td>
 			<td colspan="3">石家庄铁道大学</td>
@@ -146,4 +152,3 @@ Here are some ideas to get you started:
 	<td colspan="6">院学生会干事，校艺术团干事，班级生活委员</td>
 		</tr>
 </table>
-
